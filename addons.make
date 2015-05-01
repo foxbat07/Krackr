@@ -1,0 +1,10 @@
+ofxKinect
+ofxOpenCv
+ofxOsc
+ofxXmlSettings
+ofxCv
+ofxMesh
+ofxOculusDK2
+ofxSecondWindow
+ofxSTL
+ofxUI
